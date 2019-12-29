@@ -1,0 +1,24 @@
+/**  Basic Page CSS **/
+body {
+  font-weight: 200;
+  background-color: #337ab7;
+}
+
+header
+
+{
+  color: white;
+  text-align: center;
+}
+
+footer 
+{
+  text-align: center;
+  font-size: 0.8em;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: #377bb5 !important;
+  border: inherit;
+}
